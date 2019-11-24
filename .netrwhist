@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/dwalsh/Documents/Dev/ReactJS/finite'
+let g:netrw_dirhist_8='/Users/dwalsh/Documents/Dev/ReactJS/finite/src/pages/user'
+let g:netrw_dirhist_7='/Users/dwalsh/Documents/Dev/ReactJS/finite/src/pages'
+let g:netrw_dirhist_6='/Users/dwalsh/Documents/Dev/ReactJS/finite/src'
+let g:netrw_dirhist_5='/Users/dwalsh/Documents/Dev/ReactJS/finite'
+let g:netrw_dirhist_4='/Users/dwalsh/Documents/Dev/ReactJS/finite/src/components'
+let g:netrw_dirhist_3='/Users/dwalsh/Documents/Dev/ReactJS/finite/src'
+let g:netrw_dirhist_2='/Users/dwalsh/Documents/Dev/ReactJS/finite'
+let g:netrw_dirhist_1='/Users/dwalsh/.config'
